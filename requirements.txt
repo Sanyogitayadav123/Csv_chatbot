@@ -1,3 +1,4 @@
 langchain
 streamlit
 langchain_experimental
+dotenv
