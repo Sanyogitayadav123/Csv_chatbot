@@ -1,4 +1,4 @@
 langchain
 streamlit
 langchain_experimental
-dotenv
+python-dotenv
